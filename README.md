@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @abedkangwena
-- 👀 I’m interested in studying hardware and electronics
-- 🌱 I’m currently learning hardware engineering
-- 💞️ I’m looking to collaborate on intergrated chip developers
+- 👋 Hi, I’m Abednego Kangwena - # SirAbediey
+- 👀 I’m interested in Studying Computer Hardware and Electronics
+- 💞️ I’m looking to collaborate on Intergrated Chip Developers and Electronics Gurus
 - 📫 email me at abedkangwena@gmail.com
-
-<!---
-abedkangwena/abedkangwena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
